@@ -256,13 +256,10 @@ Next time you can import your created function from Jarvis
 Example: `import Jarvis.tell_me_date`    
    
 ## 5. Future?    
- Lots of possibilities, GUI, Integrate with GPT-3, support for android, IOT, Home Automation, APIs, as pip package etc.    
+ I will try to add anything I can, but feel free to give any suggestion, and if they are free, I will try.
     
 ### Todo list-    
- 5.1. More API features    
-    
-5.2. You tell me    
-    
+ 5.1. Make package size smaller but with same efficiency.
     
 ## FAQs for Contributors-
  1. What I can install?    
@@ -272,16 +269,16 @@ Ans: You can install any library you want in your module, make sure it is openso
 Ans: Read the example above. And make sure your code is compatible with win/linux/mac.    
     
 3. What should I not change?    
-Ans: Existing code.    
+Ans: Existing code. If you want to change it, make a pull request and I will look into it.
     
 4. Credits-    
 Ans: You will definitely get credit for your contribution.    
     
 5. Note-    
-Ans: Once you created your module, test it with different environment (windows / linux). Make sure the quality of code because your features will get added to the Jarvis and publish as PyPi project.    
+Ans: Once you created your module, test it with different environment (windows / linux). Make sure the quality of code is good because your features will get added to the Jarvis program and publish as PyPi project.    
     
 6. Help / Contact?    
-Ans. Contact me on any of my social media or Email.    
+Ans. Contact me on my email.    
     
 ### **Let's make it big.**    
    
