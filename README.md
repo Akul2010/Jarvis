@@ -12,7 +12,6 @@ Please note that this is a continuation of the [JarvisAI](https://pypi.org/proje
  3. Getting Started- How to use it?    
  4. How to contribute?    
  5. Future?    
- 6.   
 ## 1. What is Jarvis AI-
 Jarvis AI is a Python Module which is able to perform task like Chatbot, Assistant etc. It provides base functionality for any assistant application. This Jarvis is built using Tensorflow, Pytorch, Transformers and other opensource libraries and frameworks. Feel free to contribute on this project to make it more powerful.    
 
