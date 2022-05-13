@@ -5,25 +5,18 @@
  
 # NOTE
 
-This is the final update (05 Apr, 2022) on this libray. You can still use this library. We have introduce new library [AdonisAI](https://pypi.org/project/AdonisAI)
-
-AdonisAI is as advance version of Jarvis which is lightweight but more powerful. AdonisAI is a Python Module which is able to perform task like Chatbot, Assistant etc. It provides base functionality for any assistant application. This library is built using Tensorflow, Pytorch, Transformers and other opensource libraries and frameworks. Well, you can contribute on this project to make it more powerful.
+Please note that this is a continuation of the [JarvisAI](https://pypi.org/project/JarvisAI) library by [Dipeshpal](https://github.com/Dipeshpal)
     
 1. What is Jarvis AI?    
  2. Prerequisite    
  3. Getting Started- How to use it?    
  4. How to contribute?    
  5. Future?    
-
-## Check Out Lightweight (More Powerful) Version  of Jarvis-
-
-AdonisAI: https://pypi.org/project/AdonisAI
-
-     
+ 6.   
 ## 1. What is Jarvis AI-
-Jarvis AI is a Python Module which is able to perform task like Chatbot, Assistant etc. It provides base functionality for any assistant application. This Jarvis is built using Tensorflow, Pytorch, Transformers and other opensource libraries and frameworks. Well, you can contribute on this project to make it more powerful.    
-    
-This project is crated only for those who is having interest in building Virtual Assistant. Generally it took lots of time to write code from scratch to build Virtual Assistant. So, I have build an Library called "Jarvis", which gives you easy functionality to build your own Virtual Assistant.    
+Jarvis AI is a Python Module which is able to perform task like Chatbot, Assistant etc. It provides base functionality for any assistant application. This Jarvis is built using Tensorflow, Pytorch, Transformers and other opensource libraries and frameworks. Feel free to contribute on this project to make it more powerful.    
+
+This project is crated only for those who is having interest in building a virtual assistant. Before, it took a lot of time to write code from scratch to build a virtual assistant with only basic features. So, I made a library called Jarvis, which gives even beginners the opportunity to build a virtual assistant.    
     
 **Check more details here:** https://github.com/Dipeshpal/Jarvis_AI    
     
